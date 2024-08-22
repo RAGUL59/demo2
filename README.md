@@ -7,3 +7,4 @@ new repo created in vscode. not tracked with git yet
 
 
 ## this is the master file.
+## readme updated
